@@ -11,6 +11,10 @@ gradlePlugin {
     }
 }
 
+kotlin {
+    version = "1.5.21" // Update this version to a compatible one
+}
+
 repositories {
     google()
     mavenCentral()
