@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">scheduler</string>
+    <string name="main_activity_title">scheduler</string>
+</resources>
